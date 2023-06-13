@@ -9,6 +9,8 @@ function App() {
         <ClassComp />
       </ErroBoundary>
       <ClassComp />
+
+      <ClassComp />
       <ClassComp />
     </>
   );
